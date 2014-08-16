@@ -1,0 +1,52 @@
+Instituto Federal de Educação, Ciência e Tecnologia da Paraíba
+PRONATEC
+Lógica de Programação
+Profa Mirna Maia
+
+
+Lista de Exercícios 02 – Conceitos Iniciais
+
+1)	Explique o que é um algoritmo.
+2)	Utilizando o programa VisuAlg, elabore um algoritmo que:
+a)	Calcule o dobro de um número digitado pelo usuário.
+b)	Leia dois números quaisquer, n e x, e calcule nx
+c)	Verifique se um número qualquer é positivo, negativo ou nulo.
+d)	Calcule a média aritmética de 4 números.
+e)	Leia o nome do usuário e sua data de nascimento. O programa deve imprimir o nome seguido da idade do usuário.
+f)	Leia o primeiro e o último nome do usuário. O programa deve imprimir “Olá” para o usuário, seguido do nome dele. Por exemplo: Olá Fulano de Tal.
+g)	Calcule a média entre 3 notas se e somente se essas notas forem válidas. Uma nota é considerada válida se ela for maior ou igual a zero e menor ou igual a cem (0<= nota <=100). 
+h)	Leia 3 números inteiros e apresente o menor deles.
+i)	Leia 3 números inteiros e apresente o maior deles.
+j)	Leia um número e mostre se ele é par ou ímpar.
+k)	Leia 3 números e mostre se o valor de sua soma é par ou ímpar. 
+l)	Leia o salário de um funcionário e calcule o novo salário sabendo que ele teve um aumento de 10%.
+m)	O Submarino está fazendo uma promoção para alunos do IFPB. Todos os livros da loja estão com 20% de desconto. Carlos comprou livros no valor de 390 reais. Calcule o valor do pedido de Carlos.
+n)	Determine se um determinado ano lido é bissexto. Sendo que um ano é bissexto se for divisível por 400 ou se for divisível por 4 e não for divisível por 100. ex: 1988, 1992, 1996.
+o)	Receba o salário de um trabalhador e o valor da prestação de um empréstimo, se a prestação for maior que 20% do salário imprima: Empréstimo não concedido, caso contrário imprima: Empréstimo concedido. 
+p)	Calcule o resultado de uma função de 1º Grau f(x) = ax + b.
+q)	Calcule os resultados de uma função de 2º Grau f(x) = ax2 + bx + c.
+r)	Receba o peso e a altura de um usuário e calcule o IMC (índice de massa corpórea). O IMC é definido por peso/altura2
+s)	Receba o peso e a altura de um usuário e escreva sua situação baseada na tabela abaixo:
+Cálculo IMC	Situação
+Abaixo de 18,5	Você está abaixo do peso idealEntre 18,5 e 24,9	Parabéns — você está em seu peso normal!
+Entre 25,0 e 29,9	Você está acima de seu peso (sobrepeso)
+Entre 30,0 e 34,9	Obesidade grau I
+Entre 35,0 e 39,9	Obesidade grau II
+40,0 e acima	Obesidade grau III
+
+t)	Leia um número e calcule se ele é divisível por 2 e 5.
+u)	Elabore um algoritmo que dada a idade de um nadador classifica-o em uma das seguintes categorias:
+infantil A = 5 - 7 anos 
+infantil B = 8 - 10 anos 
+juvenil A = 11-13 anos 
+juvenil B = 14-17 anos 
+adulto = maiores de 18 anos
+A idade fornecida pelo usuário deve estar entre 0 e 120 anos. Caso contrário o programa deve emitir uma mensagem de erro.
+v)	Leia 3 valores e verifique se todos são inteiros e positivos.
+w)	Leia 3 notas, calcule a média aritmética se e somente se, são notas válidas. Em seguida, apresente a situação do aluno:
+
+Média 	Situação
+40 <= Nota < 70	Em recuperação
+Nota >=70 	Aprovado
+Nota < 40	Reprovado
+
