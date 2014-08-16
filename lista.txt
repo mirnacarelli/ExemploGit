@@ -2,10 +2,6 @@ Instituto Federal de Educação, Ciência e Tecnologia da Paraíba
 PRONATEC
 Lógica de Programação
 Profa Mirna Maia
-
-
-Lista de Exercícios 02 – Conceitos Iniciais
-
 1)	Explique o que é um algoritmo.
 2)	Utilizando o programa VisuAlg, elabore um algoritmo que:
 a)	Calcule o dobro de um número digitado pelo usuário.
